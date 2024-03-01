@@ -1,0 +1,44 @@
+/*Cuadro de el logo y texto de bienvenida*/
+#logo img{
+    width: 20%;
+}
+
+#login{
+    margin-left: 35%;
+    border-style: solid ;
+    padding: 15px;
+    margin-right: 35%;
+}
+
+
+/*Trozo texto para sugerir que se registre en el login.php *ERROR**/
+#login .sugerirregistro {
+    color: red;
+}
+
+/*Centrar cuadro de más ventas*/
+#masventas{
+    margin-left: 500px;
+}
+
+#tabladiscos{
+    margin-left: 150px;
+}
+
+#tabladiscos img{
+    max-width: 50;
+    height: auto;
+}
+
+#presentacionbackend{
+    color: red;
+}
+
+
+
+
+
+/*PRUEBAS CON EL CSS*/
+footer #piedepagina{
+    color:yellow;
+}
